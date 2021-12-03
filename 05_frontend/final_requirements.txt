@@ -1,0 +1,7 @@
+anvil-uplink==0.3.36
+haversine
+scipy
+numpy
+pandas
+matplotlib
+
